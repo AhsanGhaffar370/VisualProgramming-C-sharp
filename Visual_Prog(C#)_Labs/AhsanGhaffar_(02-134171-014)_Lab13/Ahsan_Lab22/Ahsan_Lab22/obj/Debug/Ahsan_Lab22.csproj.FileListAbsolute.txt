@@ -1,0 +1,18 @@
+C:\Users\spring2018\Desktop\Ahsan_Lab22\Ahsan_Lab22\bin\Debug\Ahsan_Lab22.exe.config
+C:\Users\spring2018\Desktop\Ahsan_Lab22\Ahsan_Lab22\bin\Debug\Ahsan_Lab22.exe
+C:\Users\spring2018\Desktop\Ahsan_Lab22\Ahsan_Lab22\bin\Debug\Ahsan_Lab22.pdb
+C:\Users\spring2018\Desktop\Ahsan_Lab22\Ahsan_Lab22\obj\Debug\Ahsan_Lab22.csprojResolveAssemblyReference.cache
+C:\Users\spring2018\Desktop\Ahsan_Lab22\Ahsan_Lab22\obj\Debug\Ahsan_Lab22.Form1.resources
+C:\Users\spring2018\Desktop\Ahsan_Lab22\Ahsan_Lab22\obj\Debug\Ahsan_Lab22.Properties.Resources.resources
+C:\Users\spring2018\Desktop\Ahsan_Lab22\Ahsan_Lab22\obj\Debug\Ahsan_Lab22.csproj.GenerateResource.Cache
+C:\Users\spring2018\Desktop\Ahsan_Lab22\Ahsan_Lab22\obj\Debug\Ahsan_Lab22.exe
+C:\Users\spring2018\Desktop\Ahsan_Lab22\Ahsan_Lab22\obj\Debug\Ahsan_Lab22.pdb
+E:\Ahsan(BSCS-5B)\Visual Programming\Lab A\AhsanGhaffar_(02-134171-014)_Lab13\Ahsan_Lab22\Ahsan_Lab22\bin\Debug\Ahsan_Lab22.exe.config
+E:\Ahsan(BSCS-5B)\Visual Programming\Lab A\AhsanGhaffar_(02-134171-014)_Lab13\Ahsan_Lab22\Ahsan_Lab22\obj\Debug\Ahsan_Lab22.exe
+E:\Ahsan(BSCS-5B)\Visual Programming\Lab A\AhsanGhaffar_(02-134171-014)_Lab13\Ahsan_Lab22\Ahsan_Lab22\obj\Debug\Ahsan_Lab22.pdb
+E:\Ahsan(BSCS-5B)\Visual Programming\Lab A\AhsanGhaffar_(02-134171-014)_Lab13\Ahsan_Lab22\Ahsan_Lab22\bin\Debug\Ahsan_Lab22.exe
+E:\Ahsan(BSCS-5B)\Visual Programming\Lab A\AhsanGhaffar_(02-134171-014)_Lab13\Ahsan_Lab22\Ahsan_Lab22\bin\Debug\Ahsan_Lab22.pdb
+E:\Ahsan(BSCS-5B)\Visual Programming\Lab A\AhsanGhaffar_(02-134171-014)_Lab13\Ahsan_Lab22\Ahsan_Lab22\obj\Debug\Ahsan_Lab22.csprojResolveAssemblyReference.cache
+E:\Ahsan(BSCS-5B)\Visual Programming\Lab A\AhsanGhaffar_(02-134171-014)_Lab13\Ahsan_Lab22\Ahsan_Lab22\obj\Debug\Ahsan_Lab22.Form1.resources
+E:\Ahsan(BSCS-5B)\Visual Programming\Lab A\AhsanGhaffar_(02-134171-014)_Lab13\Ahsan_Lab22\Ahsan_Lab22\obj\Debug\Ahsan_Lab22.Properties.Resources.resources
+E:\Ahsan(BSCS-5B)\Visual Programming\Lab A\AhsanGhaffar_(02-134171-014)_Lab13\Ahsan_Lab22\Ahsan_Lab22\obj\Debug\Ahsan_Lab22.csproj.GenerateResource.Cache

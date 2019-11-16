@@ -1,0 +1,64 @@
+E:\Ahsan(BSCS-5B)\Visual Programming\Lab Perform\Assign1\Assign1\bin\Debug\Assign1.exe.config
+E:\Ahsan(BSCS-5B)\Visual Programming\Lab Perform\Assign1\Assign1\bin\Debug\Assign1.exe
+E:\Ahsan(BSCS-5B)\Visual Programming\Lab Perform\Assign1\Assign1\bin\Debug\Assign1.pdb
+E:\Ahsan(BSCS-5B)\Visual Programming\Lab Perform\Assign1\Assign1\obj\Debug\Assign1.csprojResolveAssemblyReference.cache
+E:\Ahsan(BSCS-5B)\Visual Programming\Lab Perform\Assign1\Assign1\obj\Debug\Assign1.Form1.resources
+E:\Ahsan(BSCS-5B)\Visual Programming\Lab Perform\Assign1\Assign1\obj\Debug\Assign1.Properties.Resources.resources
+E:\Ahsan(BSCS-5B)\Visual Programming\Lab Perform\Assign1\Assign1\obj\Debug\Assign1.csproj.GenerateResource.Cache
+E:\Ahsan(BSCS-5B)\Visual Programming\Lab Perform\Assign1\Assign1\obj\Debug\Assign1.exe
+E:\Ahsan(BSCS-5B)\Visual Programming\Lab Perform\Assign1\Assign1\obj\Debug\Assign1.pdb
+G:\Ahsan(BSCS-5B)\Visual Programming\Lab Perform\Assign1\Assign1\bin\Debug\Assign1.exe.config
+G:\Ahsan(BSCS-5B)\Visual Programming\Lab Perform\Assign1\Assign1\obj\Debug\Assign1.exe
+G:\Ahsan(BSCS-5B)\Visual Programming\Lab Perform\Assign1\Assign1\obj\Debug\Assign1.pdb
+G:\Ahsan(BSCS-5B)\Visual Programming\Lab Perform\Assign1\Assign1\bin\Debug\Assign1.exe
+G:\Ahsan(BSCS-5B)\Visual Programming\Lab Perform\Assign1\Assign1\bin\Debug\Assign1.pdb
+G:\Ahsan(BSCS-5B)\Visual Programming\Lab Perform\Assign1\Assign1\obj\Debug\Assign1.csprojResolveAssemblyReference.cache
+G:\Ahsan(BSCS-5B)\Visual Programming\Lab Perform\Assign1\Assign1\obj\Debug\Assign1.Form1.resources
+G:\Ahsan(BSCS-5B)\Visual Programming\Lab Perform\Assign1\Assign1\obj\Debug\Assign1.Properties.Resources.resources
+G:\Ahsan(BSCS-5B)\Visual Programming\Lab Perform\Assign1\Assign1\obj\Debug\Assign1.csproj.GenerateResource.Cache
+G:\Ahsan(BSCS-5B)\Visual Programming\Lab Perform\Assign1\Assign1\obj\Debug\Assign1.Form2.resources
+G:\Ahsan(BSCS-5B)\Visual Programming\Lab Perform\Assign1\Assign1\obj\Debug\Assign1.Form3.resources
+G:\Ahsan(BSCS-5B)\Visual Programming\Lab Perform\Assign1\Assign1\obj\Debug\Assign1.Form4.resources
+G:\Ahsan(BSCS-5B)\Visual Programming\Lab Perform\Assign1\Assign1\obj\Debug\Assign1.Form5.resources
+F:\Assign1\Assign1\bin\Debug\Assign1.exe.config
+F:\Assign1\Assign1\obj\Debug\Assign1.exe
+F:\Assign1\Assign1\obj\Debug\Assign1.pdb
+F:\Assign1\Assign1\bin\Debug\Assign1.exe
+F:\Assign1\Assign1\bin\Debug\Assign1.pdb
+F:\Assign1\Assign1\obj\Debug\Assign1.csprojResolveAssemblyReference.cache
+F:\Assign1\Assign1\obj\Debug\Assign1.Form1.resources
+F:\Assign1\Assign1\obj\Debug\Assign1.Form2.resources
+F:\Assign1\Assign1\obj\Debug\Assign1.Form3.resources
+F:\Assign1\Assign1\obj\Debug\Assign1.Form4.resources
+F:\Assign1\Assign1\obj\Debug\Assign1.Form5.resources
+F:\Assign1\Assign1\obj\Debug\Assign1.Properties.Resources.resources
+F:\Assign1\Assign1\obj\Debug\Assign1.csproj.GenerateResource.Cache
+D:\Assign1\Assign1\bin\Debug\Assign1.exe.config
+D:\Assign1\Assign1\obj\Debug\Assign1.exe
+D:\Assign1\Assign1\obj\Debug\Assign1.pdb
+E:\Ahsan(BSCS-5B)\Visual Programming\Assignments\Assign1\Assign1\bin\Debug\Assign1.exe.config
+E:\Ahsan(BSCS-5B)\Visual Programming\Assignments\Assign1\Assign1\obj\Debug\Assign1.exe
+E:\Ahsan(BSCS-5B)\Visual Programming\Assignments\Assign1\Assign1\obj\Debug\Assign1.pdb
+E:\Ahsan(BSCS-5B)\Visual Programming\Assignments\Assign1\Assign1\bin\Debug\Assign1.exe
+E:\Ahsan(BSCS-5B)\Visual Programming\Assignments\Assign1\Assign1\bin\Debug\Assign1.pdb
+E:\Ahsan(BSCS-5B)\Visual Programming\Assignments\Assign1\Assign1\obj\Debug\Assign1.csprojResolveAssemblyReference.cache
+E:\Ahsan(BSCS-5B)\Visual Programming\Assignments\Assign1\Assign1\obj\Debug\Assign1.Form1.resources
+E:\Ahsan(BSCS-5B)\Visual Programming\Assignments\Assign1\Assign1\obj\Debug\Assign1.Form2.resources
+E:\Ahsan(BSCS-5B)\Visual Programming\Assignments\Assign1\Assign1\obj\Debug\Assign1.Form3.resources
+E:\Ahsan(BSCS-5B)\Visual Programming\Assignments\Assign1\Assign1\obj\Debug\Assign1.Form4.resources
+E:\Ahsan(BSCS-5B)\Visual Programming\Assignments\Assign1\Assign1\obj\Debug\Assign1.Form5.resources
+E:\Ahsan(BSCS-5B)\Visual Programming\Assignments\Assign1\Assign1\obj\Debug\Assign1.Properties.Resources.resources
+E:\Ahsan(BSCS-5B)\Visual Programming\Assignments\Assign1\Assign1\obj\Debug\Assign1.csproj.GenerateResource.Cache
+E:\Ahsan(BSCS-5B)\Visual Programming\Assignments\Assign1 - Copy\Assign1\bin\Debug\Assign1.exe.config
+E:\Ahsan(BSCS-5B)\Visual Programming\Assignments\Assign1 - Copy\Assign1\obj\Debug\Assign1.exe
+E:\Ahsan(BSCS-5B)\Visual Programming\Assignments\Assign1 - Copy\Assign1\obj\Debug\Assign1.pdb
+E:\Ahsan(BSCS-5B)\Visual Programming\Assignments\Assign1 - Copy\Assign1\bin\Debug\Assign1.exe
+E:\Ahsan(BSCS-5B)\Visual Programming\Assignments\Assign1 - Copy\Assign1\bin\Debug\Assign1.pdb
+E:\Ahsan(BSCS-5B)\Visual Programming\Assignments\Assign1 - Copy\Assign1\obj\Debug\Assign1.csprojResolveAssemblyReference.cache
+E:\Ahsan(BSCS-5B)\Visual Programming\Assignments\Assign1 - Copy\Assign1\obj\Debug\Assign1.Form1.resources
+E:\Ahsan(BSCS-5B)\Visual Programming\Assignments\Assign1 - Copy\Assign1\obj\Debug\Assign1.Form2.resources
+E:\Ahsan(BSCS-5B)\Visual Programming\Assignments\Assign1 - Copy\Assign1\obj\Debug\Assign1.Form3.resources
+E:\Ahsan(BSCS-5B)\Visual Programming\Assignments\Assign1 - Copy\Assign1\obj\Debug\Assign1.Form4.resources
+E:\Ahsan(BSCS-5B)\Visual Programming\Assignments\Assign1 - Copy\Assign1\obj\Debug\Assign1.Form5.resources
+E:\Ahsan(BSCS-5B)\Visual Programming\Assignments\Assign1 - Copy\Assign1\obj\Debug\Assign1.Properties.Resources.resources
+E:\Ahsan(BSCS-5B)\Visual Programming\Assignments\Assign1 - Copy\Assign1\obj\Debug\Assign1.csproj.GenerateResource.Cache

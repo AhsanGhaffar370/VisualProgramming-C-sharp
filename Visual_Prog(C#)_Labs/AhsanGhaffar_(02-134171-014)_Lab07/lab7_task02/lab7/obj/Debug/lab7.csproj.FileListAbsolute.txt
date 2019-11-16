@@ -1,0 +1,21 @@
+D:\lab7\lab7\bin\Debug\lab7.exe.config
+D:\lab7\lab7\bin\Debug\lab7.exe
+D:\lab7\lab7\bin\Debug\lab7.pdb
+D:\lab7\lab7\obj\Debug\lab7.csprojResolveAssemblyReference.cache
+D:\lab7\lab7\obj\Debug\lab7.Form1.resources
+D:\lab7\lab7\obj\Debug\lab7.Properties.Resources.resources
+D:\lab7\lab7\obj\Debug\lab7.csproj.GenerateResource.Cache
+D:\lab7\lab7\obj\Debug\lab7.exe
+D:\lab7\lab7\obj\Debug\lab7.pdb
+F:\lab7\lab7\bin\Debug\lab7.exe.config
+F:\lab7\lab7\obj\Debug\lab7.exe
+F:\lab7\lab7\obj\Debug\lab7.pdb
+F:\lab7\lab7\bin\Debug\lab7.exe
+F:\lab7\lab7\bin\Debug\lab7.pdb
+F:\lab7\lab7\obj\Debug\lab7.csprojResolveAssemblyReference.cache
+F:\lab7\lab7\obj\Debug\lab7.Form1.resources
+F:\lab7\lab7\obj\Debug\lab7.Properties.Resources.resources
+F:\lab7\lab7\obj\Debug\lab7.csproj.GenerateResource.Cache
+E:\Ahsan(BSCS-5B)\Visual Programming\Lab A\AhsanGhaffar_(02-134171-014)_Lab07\lab7_task02\lab7\bin\Debug\lab7.exe.config
+E:\Ahsan(BSCS-5B)\Visual Programming\Lab A\AhsanGhaffar_(02-134171-014)_Lab07\lab7_task02\lab7\obj\Debug\lab7.exe
+E:\Ahsan(BSCS-5B)\Visual Programming\Lab A\AhsanGhaffar_(02-134171-014)_Lab07\lab7_task02\lab7\obj\Debug\lab7.pdb

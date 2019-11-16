@@ -1,0 +1,12 @@
+C:\Users\Spring2018.BUKC\Desktop\lab 2\lab 2\bin\Debug\lab 2.exe.config
+C:\Users\Spring2018.BUKC\Desktop\lab 2\lab 2\bin\Debug\lab 2.exe
+C:\Users\Spring2018.BUKC\Desktop\lab 2\lab 2\bin\Debug\lab 2.pdb
+C:\Users\Spring2018.BUKC\Desktop\lab 2\lab 2\obj\Debug\lab 2.csprojResolveAssemblyReference.cache
+C:\Users\Spring2018.BUKC\Desktop\lab 2\lab 2\obj\Debug\lab 2.exe
+C:\Users\Spring2018.BUKC\Desktop\lab 2\lab 2\obj\Debug\lab 2.pdb
+E:\Ahsan(BSCS-5B)\Visual Programming\Lab A\AhsanGhaffar_(02-134171-014)_Lab02\lab 2\bin\Debug\lab 2.exe.config
+E:\Ahsan(BSCS-5B)\Visual Programming\Lab A\AhsanGhaffar_(02-134171-014)_Lab02\lab 2\obj\Debug\lab 2.exe
+E:\Ahsan(BSCS-5B)\Visual Programming\Lab A\AhsanGhaffar_(02-134171-014)_Lab02\lab 2\obj\Debug\lab 2.pdb
+E:\Ahsan(BSCS-5B)\Visual Programming\Lab A\AhsanGhaffar_(02-134171-014)_Lab02\lab 2\bin\Debug\lab 2.exe
+E:\Ahsan(BSCS-5B)\Visual Programming\Lab A\AhsanGhaffar_(02-134171-014)_Lab02\lab 2\bin\Debug\lab 2.pdb
+E:\Ahsan(BSCS-5B)\Visual Programming\Lab A\AhsanGhaffar_(02-134171-014)_Lab02\lab 2\obj\Debug\lab 2.csprojResolveAssemblyReference.cache

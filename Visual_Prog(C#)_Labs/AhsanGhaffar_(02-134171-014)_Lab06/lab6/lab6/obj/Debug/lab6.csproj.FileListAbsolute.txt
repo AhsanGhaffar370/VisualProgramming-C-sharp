@@ -1,0 +1,16 @@
+c:\users\saad khan (rajeya)\documents\visual studio 2012\Projects\lab6\lab6\bin\Debug\lab6.exe.config
+c:\users\saad khan (rajeya)\documents\visual studio 2012\Projects\lab6\lab6\bin\Debug\lab6.exe
+c:\users\saad khan (rajeya)\documents\visual studio 2012\Projects\lab6\lab6\bin\Debug\lab6.pdb
+c:\users\saad khan (rajeya)\documents\visual studio 2012\Projects\lab6\lab6\obj\Debug\lab6.csprojResolveAssemblyReference.cache
+c:\users\saad khan (rajeya)\documents\visual studio 2012\Projects\lab6\lab6\obj\Debug\lab6.Form1.resources
+c:\users\saad khan (rajeya)\documents\visual studio 2012\Projects\lab6\lab6\obj\Debug\lab6.Properties.Resources.resources
+c:\users\saad khan (rajeya)\documents\visual studio 2012\Projects\lab6\lab6\obj\Debug\lab6.csproj.GenerateResource.Cache
+c:\users\saad khan (rajeya)\documents\visual studio 2012\Projects\lab6\lab6\obj\Debug\lab6.exe
+c:\users\saad khan (rajeya)\documents\visual studio 2012\Projects\lab6\lab6\obj\Debug\lab6.pdb
+c:\users\saad khan (rajeya)\documents\visual studio 2012\Projects\lab6\lab6\obj\Debug\lab6.Form2.resources
+C:\Users\Saad Khan (Rajeya)\documents\visual studio 2012\Projects\lab6\lab6\obj\Debug\lab6.Form3.resources
+C:\Users\Saad Khan (Rajeya)\documents\visual studio 2012\Projects\lab6\lab6\obj\Debug\lab6.Form4.resources
+C:\Users\Saad Khan (Rajeya)\documents\visual studio 2012\Projects\lab6\lab6\obj\Debug\lab6.Form5.resources
+E:\Ahsan(BSCS-5B)\Visual Programming\Lab A\AhsanGhaffar_(02-134171-014)_Lab06\lab6\lab6\bin\Debug\lab6.exe.config
+E:\Ahsan(BSCS-5B)\Visual Programming\Lab A\AhsanGhaffar_(02-134171-014)_Lab06\lab6\lab6\obj\Debug\lab6.exe
+E:\Ahsan(BSCS-5B)\Visual Programming\Lab A\AhsanGhaffar_(02-134171-014)_Lab06\lab6\lab6\obj\Debug\lab6.pdb

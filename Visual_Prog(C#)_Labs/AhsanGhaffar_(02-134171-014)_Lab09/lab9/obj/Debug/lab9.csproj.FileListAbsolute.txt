@@ -1,0 +1,15 @@
+D:\lab9\lab9\obj\Debug\lab9.Form1.resources
+D:\lab9\lab9\obj\Debug\lab9.Form2.resources
+D:\lab9\lab9\obj\Debug\lab9.Form3.resources
+D:\lab9\lab9\obj\Debug\lab9.Properties.Resources.resources
+D:\lab9\lab9\obj\Debug\lab9.csproj.GenerateResource.Cache
+D:\lab9\lab9\bin\Debug\lab9.exe.config
+D:\lab9\lab9\obj\Debug\lab9.csprojResolveAssemblyReference.cache
+E:\Ahsan(BSCS-5B)\Visual Programming\Lab Perform\lab9\lab9\bin\Debug\lab9.exe.config
+E:\Ahsan(BSCS-5B)\Visual Programming\Lab Perform\lab9\lab9\obj\Debug\lab9.csprojResolveAssemblyReference.cache
+E:\Ahsan(BSCS-5B)\Visual Programming\Lab Perform\lab9\lab9\obj\Debug\lab9.Form1.resources
+E:\Ahsan(BSCS-5B)\Visual Programming\Lab Perform\lab9\lab9\obj\Debug\lab9.Form2.resources
+E:\Ahsan(BSCS-5B)\Visual Programming\Lab Perform\lab9\lab9\obj\Debug\lab9.Form3.resources
+E:\Ahsan(BSCS-5B)\Visual Programming\Lab Perform\lab9\lab9\obj\Debug\lab9.Properties.Resources.resources
+E:\Ahsan(BSCS-5B)\Visual Programming\Lab Perform\lab9\lab9\obj\Debug\lab9.csproj.GenerateResource.Cache
+E:\Ahsan(BSCS-5B)\Visual Programming\Lab A\AhsanGhaffar_(02-134171-014)_Lab09\lab9\bin\Debug\lab9.exe.config

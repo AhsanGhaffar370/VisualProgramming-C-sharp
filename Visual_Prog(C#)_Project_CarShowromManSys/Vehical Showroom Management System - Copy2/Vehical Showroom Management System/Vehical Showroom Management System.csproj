@@ -1,0 +1,260 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{2F6D7319-A240-406C-A101-511700F77670}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Vehical_Showroom_Management_System</RootNamespace>
+    <AssemblyName>Vehical Showroom Management System</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Bunifu_UI_v1.5.3">
+      <HintPath>..\..\..\..\..\..\Downloads\Bunifu_UI_v1.5.3.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.VisualBasic" />
+    <Reference Include="System" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Management" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="About_Us.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="About_Us.Designer.cs">
+      <DependentUpon>About_Us.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Add_Customers.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Add_Customers.Designer.cs">
+      <DependentUpon>Add_Customers.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Add_new.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Add_new.Designer.cs">
+      <DependentUpon>Add_new.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Add_Vehicals.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Add_Vehicals.Designer.cs">
+      <DependentUpon>Add_Vehicals.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Admincs.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Admincs.Designer.cs">
+      <DependentUpon>Admincs.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AvailableCars.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="AvailableCars.Designer.cs">
+      <DependentUpon>AvailableCars.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Booking_Report.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Booking_Report.Designer.cs">
+      <DependentUpon>Booking_Report.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Booking_Request.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Booking_Request.Designer.cs">
+      <DependentUpon>Booking_Request.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Contact_us.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Contact_us.Designer.cs">
+      <DependentUpon>Contact_us.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Customer_Report.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Customer_Report.Designer.cs">
+      <DependentUpon>Customer_Report.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Homepage.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Homepage.Designer.cs">
+      <DependentUpon>Homepage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="login.Designer.cs">
+      <DependentUpon>login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Messages.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Messages.Designer.cs">
+      <DependentUpon>Messages.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Registration.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Registration.Designer.cs">
+      <DependentUpon>Registration.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Report_Admin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Report_Admin.Designer.cs">
+      <DependentUpon>Report_Admin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Vehical_Registration.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Vehical_Registration.Designer.cs">
+      <DependentUpon>Vehical_Registration.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Vehical_Registration_Report.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Vehical_Registration_Report.Designer.cs">
+      <DependentUpon>Vehical_Registration_Report.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Vehical_Report.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Vehical_Report.Designer.cs">
+      <DependentUpon>Vehical_Report.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="About_Us.resx">
+      <DependentUpon>About_Us.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Add_Customers.resx">
+      <DependentUpon>Add_Customers.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Add_new.resx">
+      <DependentUpon>Add_new.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Add_Vehicals.resx">
+      <DependentUpon>Add_Vehicals.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Admincs.resx">
+      <DependentUpon>Admincs.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AvailableCars.resx">
+      <DependentUpon>AvailableCars.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Booking_Report.resx">
+      <DependentUpon>Booking_Report.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Booking_Request.resx">
+      <DependentUpon>Booking_Request.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Contact_us.resx">
+      <DependentUpon>Contact_us.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Customer_Report.resx">
+      <DependentUpon>Customer_Report.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Homepage.resx">
+      <DependentUpon>Homepage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="login.resx">
+      <DependentUpon>login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Messages.resx">
+      <DependentUpon>Messages.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="Registration.resx">
+      <DependentUpon>Registration.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report_Admin.resx">
+      <DependentUpon>Report_Admin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vehical_Registration.resx">
+      <DependentUpon>Vehical_Registration.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vehical_Registration_Report.resx">
+      <DependentUpon>Vehical_Registration_Report.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vehical_Report.resx">
+      <DependentUpon>Vehical_Report.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\downarrow20.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
